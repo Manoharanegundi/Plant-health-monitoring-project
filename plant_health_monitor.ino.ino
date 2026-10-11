@@ -3,8 +3,7 @@
 #include <DHT.h>
 
 /* -------- WiFi Credentials -------- */
-const char* ssid     = "Mrunalini";
-const char* password = "12345678";
+
 
 WebServer server(80);
 
